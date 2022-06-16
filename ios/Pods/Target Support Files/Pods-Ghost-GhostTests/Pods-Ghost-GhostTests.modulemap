@@ -1,0 +1,6 @@
+module Pods_Ghost_GhostTests {
+  umbrella header "Pods-Ghost-GhostTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
